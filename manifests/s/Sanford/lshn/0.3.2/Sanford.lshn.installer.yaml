@@ -2,7 +2,7 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.12.0.schema.json
 
 PackageIdentifier: Sanford.lshn
-PackageVersion: 0.3.1
+PackageVersion: 0.3.2
 InstallerType: zip
 NestedInstallerType: portable
 NestedInstallerFiles:
@@ -11,7 +11,7 @@ NestedInstallerFiles:
 ReleaseDate: 2026-09-30
 Installers:
 - Architecture: x64
-  InstallerUrl: https://github.com/sanford/lshn/releases/download/v0.3.1/lshn-windows-x64.zip
-  InstallerSha256: 17FD0FD205918C47227C6208BE1DB720A4C061B8283894D88EAF0BBCBD08730C
+  InstallerUrl: https://github.com/sanford/lshn/releases/download/v0.3.2/lshn-windows-x64.zip
+  InstallerSha256: 2C8B4B2E09CAA50E9FA33B6A5D4F3313BB1433DD6C2374340A9EA0F6E6A9286E
 ManifestType: installer
 ManifestVersion: 1.12.0
